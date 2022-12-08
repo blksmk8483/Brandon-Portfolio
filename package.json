@@ -1,9 +1,9 @@
 {
   "name": "react-portfolio",
-  "homepage": "http://blksmk8483.github.io/Brandon-Portfolio",
+  "homepage": "https://blksmk8483.github.io/Brandon-Portfolio",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://blksmk8483.github.io/Brandon-Portfolio",
+  "proxy": "https://blksmk8483.github.io/Brandon-Portfolio",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
